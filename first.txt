@@ -10,9 +10,13 @@ pull request
 
 
 datatypes
-variables,constant,inheritance,
+variables,constant
 oops
 loop
+functions
+files
+
+
 
 
 
