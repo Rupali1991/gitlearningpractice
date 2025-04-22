@@ -3,3 +3,16 @@ github changes
 clone github
 commands of github
 pull request
+
+
+
+
+
+
+datatypes
+variables,constant,inheritance,
+oops
+loop
+
+
+
