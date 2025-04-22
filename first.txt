@@ -21,3 +21,6 @@ files
 
 variable- variable is a keyword which have changable values.
 like a=89,b="abc";
+constant- constant also having fixed value their value does'nt
+changable.
+like pi=3.14;
