@@ -2,3 +2,13 @@ this is the tutorial of git and github
 github changes
 clone github
 commands of github
+
+
+
+
+
+
+datatypes
+variables,constant,inheritance,
+oops
+loop
