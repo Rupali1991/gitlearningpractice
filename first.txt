@@ -24,3 +24,12 @@ like a=89,b="abc";
 constant- constant also having fixed value their value does'nt
 changable.
 like pi=3.14;
+
+oops-object oriented langauge
+types are-
+objest
+class
+inheritance
+polymorphism
+encapsulation
+data hidding
